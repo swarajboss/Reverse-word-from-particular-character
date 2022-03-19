@@ -1,5 +1,6 @@
 import java.util.Scanner;
 ////////swarajjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+// soluion for vasErp assignment
 public class VasyErp
 {
    public void reverseWordInMyString(String str)
